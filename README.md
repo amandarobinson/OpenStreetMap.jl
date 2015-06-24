@@ -1,5 +1,8 @@
 ## OpenStreetMap.jl
 
+amanda has taken control
+all your code are belong to me
+
 [![Build Status](https://travis-ci.org/tedsteiner/OpenStreetMap.jl.svg)](https://travis-ci.org/tedsteiner/OpenStreetMap.jl)
 [![Coverage Status](http://img.shields.io/coveralls/tedsteiner/OpenStreetMap.jl.svg)](https://coveralls.io/r/tedsteiner/OpenStreetMap.jl)
 [![OpenStreetMap](http://pkg.julialang.org/badges/OpenStreetMap_release.svg)](http://pkg.julialang.org/?pkg=OpenStreetMap&ver=release)
